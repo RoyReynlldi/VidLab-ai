@@ -52,9 +52,14 @@ const Pricing = () => {
               ))}
             </div>
 
-            <button className="w-full bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-500 hover:to-purple-600 text-white py-4 rounded-xl text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-xl shadow-purple-500/25">
+            <a
+              href="https://ai.appvidlab.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block text-center w-full bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-500 hover:to-purple-600 text-white py-4 rounded-xl text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-xl shadow-purple-500/25"
+            >
               Get Started Free
-            </button>
+            </a>
 
             <p className="text-center text-gray-400 text-sm mt-4">
               20 credits instantly available after login
@@ -72,7 +77,7 @@ const Pricing = () => {
               <p className="text-gray-400 mb-6">Perfect for regular content creation</p>
 
               <div className="mb-6">
-                <div className="text-5xl font-bold text-white mb-2">$20</div>
+                <div className="text-5xl font-bold text-white mb-2">$18.60</div>
                 <div className="text-purple-300 text-lg">620 Credits</div>
               </div>
 
@@ -98,16 +103,19 @@ const Pricing = () => {
               ))}
             </div>
 
-            <button className="w-full bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-500 hover:to-purple-600 text-white py-4 rounded-xl text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-xl shadow-purple-500/25">
+            <a
+              href="https://ai.appvidlab.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block text-center w-full bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-500 hover:to-purple-600 text-white py-4 rounded-xl text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-xl shadow-purple-500/25"
+            >
               Get Started Now
-            </button>
+            </a>
 
             <p className="text-center text-gray-400 text-sm mt-4">
               No subscription required • Credits never expire
             </p>
           </div>
-
-          
         </div>
       </div>
     </section>

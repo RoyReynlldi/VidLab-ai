@@ -37,7 +37,7 @@ const Hero = () => {
             className="group bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-500 hover:to-purple-600 text-white px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 transform hover:scale-105 shadow-2xl shadow-purple-500/25 flex items-center gap-3"
           >
             <Play className="w-5 h-5 group-hover:scale-110 transition-transform" />
-            Coba Gratis
+            Try Now
           </a>
 
           <a
@@ -46,7 +46,7 @@ const Hero = () => {
             rel="noopener noreferrer"
             className="text-purple-300 hover:text-white px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 border border-purple-500/30 hover:border-purple-400 hover:bg-purple-500/10"
           >
-            Lihat Demo
+            View Demo
           </a>
         </div>
         
